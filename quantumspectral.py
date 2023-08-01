@@ -18,7 +18,7 @@ def main():
 	tEnd      = 0.03    # time at which simulation ends
 	dt        = 0.0001  # timestep
 	tOut      = 0.0001  # draw frequency
-	G         = 4000  # Gravitaitonal constant
+	G         = 4000   # Gravitational constant
 	plotRealTime = True # switch on for plotting as the simulation goes along
 	
 	# Domain [0,1] x [0,1]
